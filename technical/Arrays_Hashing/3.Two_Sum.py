@@ -26,4 +26,26 @@ class Solution:
             if complement in hashMap:
                 return [hashMap[complement], i]
             hashMap[nums[i]] = i
+        return None
             
+class TestSolution(unittest.TestCase):
+    def setUp(self):
+        self.solution = Solution()
+        
+    def test_typical_case(self):
+        self.assertEqual(self.solution.twoSum([2, 7, 11, 15], 9), [0, 1], "Should return [0, 1] for numbers [2, 7] adding to 9")
+
+    def test_no_solution(self):
+        self.assertIsNone(self.solution.twoSum([1, 2, 3], 7), "Should return None if no two numbers sum to the target")
+
+    def test_multiple_solutions(self):
+        self.assertEqual(self.solution.twoSum([3, 2, 4], 6), [1, 2], "Should return the first correct pair [1, 2] for numbers [2, 4] adding to 6")
+
+    def test_negative_numbers(self):
+        self.assertEqual(self.solution.twoSum([-1, -2, -3, -4], -6), [1, 3], "Should return [1, 3] for numbers [-2, -4] adding to -6")
+
+    def test_zero_and_positive_numbers(self):
+        self.assertEqual(self.solution.twoSum([0, 4, 3, 0], 0), [0, 3], "Should return [0, 3] for zeros adding to 0")
+
+if __name__ == '__main__':
+    unittest.main(verbosity=2)
