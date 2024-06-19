@@ -18,6 +18,8 @@ PROPOSED SOLUTION:
 import collections, unittest
 class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+        if len(strs) < 2:
+            return [strs]
         anagrams = collections.defaultdict(list)
         for word in strs:
             count = [0] * 26
@@ -29,3 +31,34 @@ class Solution:
         return anagrams.values()
     
     
+class TestSolution(unittest.TestCase):
+    def setUp(self):
+        self.solution = Solution()
+
+    def test_typical_case(self):
+        self.assertEqual(sorted(self.solution.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"])),
+                         sorted([["eat", "tea", "ate"], ["tan", "nat"], ["bat"]]),
+                         "Should correctly group anagrams")
+
+    def test_no_anagrams(self):
+        self.assertEqual(sorted(self.solution.groupAnagrams(["abc", "def", "ghi"])),
+                         sorted([["abc"], ["def"], ["ghi"]]),
+                         "Should handle list with no anagrams")
+
+    def test_all_anagrams(self):
+        self.assertEqual(sorted(self.solution.groupAnagrams(["a", "a", "a"])),
+                         sorted([["a", "a", "a"]]),
+                         "Should handle list where all elements are anagrams")
+
+    def test_empty_list(self):
+        self.assertEqual(self.solution.groupAnagrams([]),
+                         [[]],
+                         "Should return empty list for empty input")
+
+    def test_single_word(self):
+        self.assertEqual(self.solution.groupAnagrams(["abc"]),
+                         [["abc"]],
+                         "Should handle single word input")
+
+if __name__ == '__main__':
+    unittest.main(verbosity=3)
