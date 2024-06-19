@@ -32,3 +32,35 @@ class Solution:
             right -= 1
         return True
     
+class TestSolution(unittest.TestCase):
+    def setUp(self):
+        self.solution = Solution()
+
+    def test_typical_palindrome(self):
+        self.assertTrue(self.solution.isPalindrome("A man a plan a canal Panama"), "Should return True for a valid palindrome")
+
+    def test_non_palindrome(self):
+        self.assertFalse(self.solution.isPalindrome("hello world"), "Should return False for non-palindromic strings")
+
+    def test_case_insensitivity(self):
+        self.assertTrue(self.solution.isPalindrome("RaceCar"), "Should return True, ignoring cases")
+
+    def test_alphanumeric_filter(self):
+        self.assertTrue(self.solution.isPalindrome("Madam, I'm Adam."), "Should return True, ignoring non-alphanumeric characters")
+
+    def test_single_character(self):
+        self.assertTrue(self.solution.isPalindrome("a"), "Should return True for a single character")
+
+    def test_empty_string(self):
+        self.assertTrue(self.solution.isPalindrome(""), "Should return True for an empty string")
+
+    def test_long_palindrome(self):
+        long_palindrome = "A" * 1000
+        self.assertTrue(self.solution.isPalindrome(long_palindrome), "Should return True for a long palindromic string")
+
+    def test_long_non_palindrome(self):
+        long_non_palindrome = "A" * 500 + "B" * 500
+        self.assertFalse(self.solution.isPalindrome(long_non_palindrome), "Should return False for a long non-palindromic string")
+
+if __name__ == '__main__':
+    unittest.main(verbosity=2)
