@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MehakKambo/interview-prep/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/MehakKambo/interview-prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MehakKambo/interview-prep/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/MehakKambo/interview-prep/tree/master/0271-encode-and-decode-strings) |
 ## Design
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MehakKambo/interview-prep/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/MehakKambo/interview-prep/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
