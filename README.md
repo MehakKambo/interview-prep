@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MehakKambo/interview-prep/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/MehakKambo/interview-prep/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/MehakKambo/interview-prep/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MehakKambo/interview-prep/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MehakKambo/interview-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MehakKambo/interview-prep/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/MehakKambo/interview-prep/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/MehakKambo/interview-prep/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MehakKambo/interview-prep/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/MehakKambo/interview-prep/tree/master/0217-contains-duplicate) |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MehakKambo/interview-prep/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/MehakKambo/interview-prep/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
