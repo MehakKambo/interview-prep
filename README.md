@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MehakKambo/interview-prep/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MehakKambo/interview-prep/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/MehakKambo/interview-prep/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/MehakKambo/interview-prep/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MehakKambo/interview-prep/tree/master/0128-longest-consecutive-sequence) |
@@ -65,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MehakKambo/interview-prep/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/MehakKambo/interview-prep/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MehakKambo/interview-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MehakKambo/interview-prep/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MehakKambo/interview-prep/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
