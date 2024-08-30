@@ -44,6 +44,7 @@
 | [0242-valid-anagram](https://github.com/MehakKambo/interview-prep/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/MehakKambo/interview-prep/tree/master/0271-encode-and-decode-strings) |
 | [0408-valid-word-abbreviation](https://github.com/MehakKambo/interview-prep/tree/master/0408-valid-word-abbreviation) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MehakKambo/interview-prep/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
