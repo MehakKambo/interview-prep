@@ -47,6 +47,7 @@
 | [0271-encode-and-decode-strings](https://github.com/MehakKambo/interview-prep/tree/master/0271-encode-and-decode-strings) |
 | [0408-valid-word-abbreviation](https://github.com/MehakKambo/interview-prep/tree/master/0408-valid-word-abbreviation) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MehakKambo/interview-prep/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Design
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MehakKambo/interview-prep/tree/master/0011-container-with-most-water) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MehakKambo/interview-prep/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
+## Math
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MehakKambo/interview-prep/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
