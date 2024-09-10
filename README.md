@@ -27,6 +27,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/MehakKambo/interview-prep/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/MehakKambo/interview-prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MehakKambo/interview-prep/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/MehakKambo/interview-prep/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/MehakKambo/interview-prep/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
 ## Sorting
@@ -45,6 +46,7 @@
 | [0125-valid-palindrome](https://github.com/MehakKambo/interview-prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MehakKambo/interview-prep/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/MehakKambo/interview-prep/tree/master/0271-encode-and-decode-strings) |
+| [0290-word-pattern](https://github.com/MehakKambo/interview-prep/tree/master/0290-word-pattern) |
 | [0408-valid-word-abbreviation](https://github.com/MehakKambo/interview-prep/tree/master/0408-valid-word-abbreviation) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MehakKambo/interview-prep/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
