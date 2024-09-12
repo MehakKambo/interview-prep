@@ -116,6 +116,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/MehakKambo/interview-prep/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
 ## Hash Function
 |  |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MehakKambo/interview-prep/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MehakKambo/interview-prep/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
