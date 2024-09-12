@@ -124,6 +124,15 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MehakKambo/interview-prep/tree/master/0070-climbing-stairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MehakKambo/interview-prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MehakKambo/interview-prep/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MehakKambo/interview-prep/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MehakKambo/interview-prep/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
