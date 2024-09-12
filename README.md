@@ -18,6 +18,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MehakKambo/interview-prep/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/MehakKambo/interview-prep/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/MehakKambo/interview-prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,5 +124,6 @@
 ## Math
 |  |
 | ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/MehakKambo/interview-prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MehakKambo/interview-prep/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
