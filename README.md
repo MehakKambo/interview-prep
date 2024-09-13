@@ -43,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MehakKambo/interview-prep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MehakKambo/interview-prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MehakKambo/interview-prep/tree/master/0242-valid-anagram) |
@@ -114,6 +115,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/0020-valid-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
 |  |
