@@ -1,7 +1,9 @@
 class Solution:
     def countSegments(self, s: str) -> int:
-        segments = s.split(' ')
+        segmentCount = 0
 
-        filteredSegments = list(filter(lambda x: x != '', segments))
+        for i in range(len(s)):
+            if s[i] != ' ' and (i == 0 or s[i - 1] == ' '):
+                segmentCount += 1
 
-        return len(filteredSegments)
+        return segmentCount
