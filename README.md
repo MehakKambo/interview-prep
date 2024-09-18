@@ -52,6 +52,7 @@
 | [0290-word-pattern](https://github.com/MehakKambo/interview-prep/tree/master/0290-word-pattern) |
 | [0408-valid-word-abbreviation](https://github.com/MehakKambo/interview-prep/tree/master/0408-valid-word-abbreviation) |
 | [0434-number-of-segments-in-a-string](https://github.com/MehakKambo/interview-prep/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/MehakKambo/interview-prep/tree/master/0443-string-compression) |
 | [0782-jewels-and-stones](https://github.com/MehakKambo/interview-prep/tree/master/0782-jewels-and-stones) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MehakKambo/interview-prep/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -93,6 +94,7 @@
 | [0125-valid-palindrome](https://github.com/MehakKambo/interview-prep/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MehakKambo/interview-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0408-valid-word-abbreviation](https://github.com/MehakKambo/interview-prep/tree/master/0408-valid-word-abbreviation) |
+| [0443-string-compression](https://github.com/MehakKambo/interview-prep/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
