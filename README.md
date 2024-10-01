@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/MehakKambo/interview-prep/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/MehakKambo/interview-prep/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/MehakKambo/interview-prep/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MehakKambo/interview-prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MehakKambo/interview-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MehakKambo/interview-prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MehakKambo/interview-prep/tree/master/0217-contains-duplicate) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MehakKambo/interview-prep/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MehakKambo/interview-prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
 |  |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MehakKambo/interview-prep/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MehakKambo/interview-prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MehakKambo/interview-prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MehakKambo/interview-prep/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
