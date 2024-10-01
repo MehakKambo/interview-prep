@@ -22,7 +22,7 @@ class Solution:
                 else:
                     result_triplets.append([current_number, nums[left_pointer], nums[right_pointer]])
                     left_pointer += 1
-                    right_pointer -= 1
+
                     while nums[left_pointer] == nums[left_pointer - 1] and left_pointer < right_pointer:
                         left_pointer += 1
         return result_triplets 
