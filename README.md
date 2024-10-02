@@ -36,6 +36,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MehakKambo/interview-prep/tree/master/0347-top-k-frequent-elements) |
 | [0782-jewels-and-stones](https://github.com/MehakKambo/interview-prep/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
+| [1023-time-based-key-value-store](https://github.com/MehakKambo/interview-prep/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/MehakKambo/interview-prep/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/MehakKambo/interview-prep/tree/master/0443-string-compression) |
 | [0782-jewels-and-stones](https://github.com/MehakKambo/interview-prep/tree/master/0782-jewels-and-stones) |
+| [1023-time-based-key-value-store](https://github.com/MehakKambo/interview-prep/tree/master/1023-time-based-key-value-store) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MehakKambo/interview-prep/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Design
@@ -67,6 +69,7 @@
 | [0271-encode-and-decode-strings](https://github.com/MehakKambo/interview-prep/tree/master/0271-encode-and-decode-strings) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MehakKambo/interview-prep/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
+| [1023-time-based-key-value-store](https://github.com/MehakKambo/interview-prep/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | [0074-search-a-2d-matrix](https://github.com/MehakKambo/interview-prep/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MehakKambo/interview-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/MehakKambo/interview-prep/tree/master/0792-binary-search) |
+| [1023-time-based-key-value-store](https://github.com/MehakKambo/interview-prep/tree/master/1023-time-based-key-value-store) |
 ## Union Find
 |  |
 | ------- |
