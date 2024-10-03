@@ -6,7 +6,7 @@
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
         # find the middle of the list first
-        slow, fast = head, head    
+        slow, fast = head, head
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
