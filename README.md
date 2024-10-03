@@ -109,6 +109,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MehakKambo/interview-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0408-valid-word-abbreviation](https://github.com/MehakKambo/interview-prep/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/MehakKambo/interview-prep/tree/master/0443-string-compression) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MehakKambo/interview-prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0143-reorder-list](https://github.com/MehakKambo/interview-prep/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MehakKambo/interview-prep/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MehakKambo/interview-prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Function
 |  |
 | ------- |
