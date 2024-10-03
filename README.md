@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/MehakKambo/interview-prep/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/MehakKambo/interview-prep/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/MehakKambo/interview-prep/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/MehakKambo/interview-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/MehakKambo/interview-prep/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MehakKambo/interview-prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -36,6 +37,7 @@
 | [0242-valid-anagram](https://github.com/MehakKambo/interview-prep/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MehakKambo/interview-prep/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/MehakKambo/interview-prep/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/MehakKambo/interview-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/MehakKambo/interview-prep/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
 | [1023-time-based-key-value-store](https://github.com/MehakKambo/interview-prep/tree/master/1023-time-based-key-value-store) |
@@ -49,6 +51,7 @@
 | [0217-contains-duplicate](https://github.com/MehakKambo/interview-prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MehakKambo/interview-prep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MehakKambo/interview-prep/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/MehakKambo/interview-prep/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -107,6 +110,7 @@
 | [0141-linked-list-cycle](https://github.com/MehakKambo/interview-prep/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MehakKambo/interview-prep/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MehakKambo/interview-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/MehakKambo/interview-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0408-valid-word-abbreviation](https://github.com/MehakKambo/interview-prep/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/MehakKambo/interview-prep/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/MehakKambo/interview-prep/tree/master/0908-middle-of-the-linked-list) |
@@ -117,6 +121,7 @@
 | [0074-search-a-2d-matrix](https://github.com/MehakKambo/interview-prep/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MehakKambo/interview-prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MehakKambo/interview-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/MehakKambo/interview-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/MehakKambo/interview-prep/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/MehakKambo/interview-prep/tree/master/1023-time-based-key-value-store) |
 ## Union Find
