@@ -194,6 +194,7 @@
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/MehakKambo/interview-prep/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MehakKambo/interview-prep/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -202,6 +203,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/MehakKambo/interview-prep/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MehakKambo/interview-prep/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -211,4 +213,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MehakKambo/interview-prep/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/MehakKambo/interview-prep/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/MehakKambo/interview-prep/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
