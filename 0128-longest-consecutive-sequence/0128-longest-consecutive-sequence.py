@@ -15,14 +15,18 @@ class Solution:
         # return longest
         if not nums:
             return 0
-        nums = set(nums)
+        unique_nums = set(nums)
 
-        longest_streak = 1
-        for num in nums:
-            if (num - 1) not in nums:
-                current_streak = 1
-                while (num + current_streak) in nums:
-                    current_streak += 1
-                longest_streak = max(longest_streak, current_streak)
+        longest_seq = 1
 
-        return longest_streak
+        for num in unique_nums:
+            current_seq = 1
+            if (num - 1) in unique_nums:
+                continue
+
+            while num + current_seq in unique_nums:
+                current_seq += 1
+
+            longest_seq = max(current_seq, longest_seq)
+
+        return longest_seq
