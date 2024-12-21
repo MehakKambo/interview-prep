@@ -25,6 +25,7 @@
 | [0792-binary-search](https://github.com/MehakKambo/interview-prep/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MehakKambo/interview-prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/MehakKambo/interview-prep/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
