@@ -27,6 +27,7 @@
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MehakKambo/interview-prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MehakKambo/interview-prep/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/MehakKambo/interview-prep/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0782-jewels-and-stones](https://github.com/MehakKambo/interview-prep/tree/master/0782-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/MehakKambo/interview-prep/tree/master/1023-time-based-key-value-store) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/MehakKambo/interview-prep/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MehakKambo/interview-prep/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Design
 |  |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/MehakKambo/interview-prep/tree/master/0226-invert-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/MehakKambo/interview-prep/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
