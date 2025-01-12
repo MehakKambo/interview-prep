@@ -71,6 +71,7 @@
 | [0782-jewels-and-stones](https://github.com/MehakKambo/interview-prep/tree/master/0782-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/MehakKambo/interview-prep/tree/master/1023-time-based-key-value-store) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MehakKambo/interview-prep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MehakKambo/interview-prep/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MehakKambo/interview-prep/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Design
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MehakKambo/interview-prep/tree/master/0011-container-with-most-water) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MehakKambo/interview-prep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/MehakKambo/interview-prep/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
@@ -155,6 +157,7 @@
 | [0143-reorder-list](https://github.com/MehakKambo/interview-prep/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MehakKambo/interview-prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MehakKambo/interview-prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MehakKambo/interview-prep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Linked List
 |  |
 | ------- |
