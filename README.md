@@ -25,6 +25,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MehakKambo/interview-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/MehakKambo/interview-prep/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
+| [0860-design-circular-queue](https://github.com/MehakKambo/interview-prep/tree/master/0860-design-circular-queue) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MehakKambo/interview-prep/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MehakKambo/interview-prep/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MehakKambo/interview-prep/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -81,6 +82,7 @@
 | [0271-encode-and-decode-strings](https://github.com/MehakKambo/interview-prep/tree/master/0271-encode-and-decode-strings) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MehakKambo/interview-prep/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
+| [0860-design-circular-queue](https://github.com/MehakKambo/interview-prep/tree/master/0860-design-circular-queue) |
 | [1023-time-based-key-value-store](https://github.com/MehakKambo/interview-prep/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -170,6 +172,7 @@
 | [0143-reorder-list](https://github.com/MehakKambo/interview-prep/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MehakKambo/interview-prep/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/MehakKambo/interview-prep/tree/master/0816-design-hashset) |
+| [0860-design-circular-queue](https://github.com/MehakKambo/interview-prep/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/MehakKambo/interview-prep/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/MehakKambo/interview-prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Function
@@ -236,4 +239,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MehakKambo/interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/MehakKambo/interview-prep/tree/master/2292-counting-words-with-a-given-prefix) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/MehakKambo/interview-prep/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
