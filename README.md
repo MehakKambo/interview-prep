@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/MehakKambo/interview-prep/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MehakKambo/interview-prep/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/MehakKambo/interview-prep/tree/master/0271-encode-and-decode-strings) |
+| [0283-move-zeroes](https://github.com/MehakKambo/interview-prep/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/MehakKambo/interview-prep/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MehakKambo/interview-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/MehakKambo/interview-prep/tree/master/0792-binary-search) |
@@ -120,6 +121,7 @@
 | [0141-linked-list-cycle](https://github.com/MehakKambo/interview-prep/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MehakKambo/interview-prep/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MehakKambo/interview-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/MehakKambo/interview-prep/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MehakKambo/interview-prep/tree/master/0349-intersection-of-two-arrays) |
 | [0408-valid-word-abbreviation](https://github.com/MehakKambo/interview-prep/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/MehakKambo/interview-prep/tree/master/0443-string-compression) |
